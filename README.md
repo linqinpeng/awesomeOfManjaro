@@ -1,0 +1,2 @@
+# awesomeOfManjaro
+移植了manjaro的awesome配置
